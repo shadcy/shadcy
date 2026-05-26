@@ -24,7 +24,7 @@ building <a href="https://github.com/shadcy/tios">TIOS</a>, experimenting with k
   </a>
 </p>
 
-<img src="https://skillicons.dev/icons?i=c,cpp,rust,python,ts,nextjs,react,nodejs,linux,bash,git,docker" />
+<img src="https://skillicons.dev/icons?i=c,cpp,rust,flutter,swift,python,ts,nextjs,react,nodejs,linux,bash,git,docker" />
 
 <br><br>
 
