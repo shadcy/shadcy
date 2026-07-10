@@ -24,7 +24,7 @@ building <a href="https://github.com/shadcy/tos">TOS</a>, experimenting with ker
   </a>
 </p>
 
-<img src="https://skillicons.dev/icons?i=c,cpp,rust,flutter,swift,python,ts,nextjs,react,nodejs,linux,bash,git,docker" />
+<img src="https://skillicons.dev/icons?i=c,cpp,swift,python,linux,bash,git,docker" />
 
 <br><br>
 
