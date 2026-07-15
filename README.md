@@ -6,7 +6,7 @@
 
 building <a href="https://github.com/shadcy/tos">TOS</a>, experimenting with kernels, framebuffer graphics, networking, memory management and low level systems. i like building things close to hardware, running DOOM in weird places, working with FPGA systems and understanding computers from the ground up.
 
-<p align="center">
+<!-- <p align="center">
   <!-- <a href="https://offday.space">
     <img src="https://img.shields.io/badge/Website-offday.space-black?style=for-the-badge&logo=vercel&logoColor=white" />
   </a> -->
@@ -22,7 +22,7 @@ building <a href="https://github.com/shadcy/tos">TOS</a>, experimenting with ker
   <a href="https://in.linkedin.com/in/shreyashwanjari">
     <img src="https://img.shields.io/badge/LinkedIn-shreyashwanjari-black?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-</p>
+</p> -->
 
 <img src="https://skillicons.dev/icons?i=c,cpp,swift,python,linux,bash,git,docker" />
 
