@@ -11,18 +11,8 @@ building <a href="https://github.com/shadcy/tos">TOS</a>, experimenting with ker
     <img src="https://img.shields.io/badge/Website-offday.space-black?style=for-the-badge&logo=vercel&logoColor=white" />
   </a> -->
 
-  <a href="https://github.com/shadcy/tios">
-    <img src="https://img.shields.io/badge/TIOS-Operating_System-black?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  
-  <a href="https://codeforces.com/profile/shadcy">
-    <img src="https://img.shields.io/badge/Codeforces-shadcy-black?style=for-the-badge&logo=codeforces&logoColor=white" />
-  </a>
 
-  <a href="https://in.linkedin.com/in/shreyashwanjari">
-    <img src="https://img.shields.io/badge/LinkedIn-shreyashwanjari-black?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-</p> -->
+</p> 
 
 <img src="https://skillicons.dev/icons?i=c,cpp,swift,python,linux,bash,git,docker" />
 
