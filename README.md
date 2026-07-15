@@ -4,7 +4,7 @@
 
 # Shreyash Wanjari (@/shadcy)
 
-building <a href="https://github.com/shadcy/tos">TOS</a>, experimenting with kernels, framebuffer graphics, networking, memory management and low level systems. i like building things close to hardware, running DOOM in weird places, working with FPGA systems and understanding computers from the ground up.
+building <a href="https://github.com/shadcy/stax">STAX OS</a>, experimenting with kernels, memory management and low level systems design. i like building things close to hardware, running DOOM(the game from 90s) in weird places.
 
 <!-- <p align="center">
   <!-- <a href="https://offday.space">
